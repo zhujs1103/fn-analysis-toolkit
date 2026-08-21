@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+venv/
+.streamlit/secrets.toml
+data/
+outputs/
+output/
+*.csv
+*.xlsx
+*.xls
